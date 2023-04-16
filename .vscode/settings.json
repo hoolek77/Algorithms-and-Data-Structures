@@ -1,0 +1,10 @@
+{
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": true,
+    "plaintext": false,
+    "markdown": true,
+    "**/algorithms/*": false
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
